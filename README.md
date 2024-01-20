@@ -22,8 +22,11 @@ The challenge is to build out this card component and get it looking as close to
 
 ### The design
 
-- ![Desktop Screenshot](https://i.postimg.cc/DZXq8zYd/desktop-design.jpg)
-- ![Mobile Screenshot](https://i.postimg.cc/wBPXqNFj/mobile-design.jpg)
+![Desktop Screenshot](https://i.postimg.cc/DZXq8zYd/desktop-design.jpg)
+
+ <p align="center">
+  <img width="375" height="667" src="https://i.postimg.cc/wBPXqNFj/mobile-design.jpg">
+</p>
 
 ### Screenshot
 
