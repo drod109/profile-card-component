@@ -45,7 +45,8 @@ body {
     justify-content: center;
     background-color: var(--clr-dark-cyan);
     position: relative;
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
     height: 100vh;
     height: 100svh;
     padding: var(--spacing-xsm);
@@ -55,12 +56,14 @@ body {
     top: 0;
     left: 0;
     transform: translate(-50%, -50%);
+    overflow: hidden;
 }
 .bg-svg-bottom {
     position: absolute;
     bottom: 0;
     right: 0;
     transform: translate(50%, 50%);
+    overflow: hidden;
 }
 .card {
     display: flex;
