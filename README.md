@@ -21,12 +21,12 @@ The challenge is to build out this card component and get it looking as close to
 
 ### Screenshot
 
-![Project Desktop Screenshot](https://i.postimg.cc/65h12QSK/Screenshot-2024-01-15-163455-desktop.png)
+![Project Desktop Screenshot](https://i.postimg.cc/pLmN4YnG/Screenshot-2024-01-20-053114.png)
 
 ### Links
 
-- Live Site URL Primary: [Live Site Preview](https://drod109.github.io/stats-preview-card/)
-- Live Site URL Backup: [Live Site Preview](https://codepen.io/drodrigues/full/rNRjvzj)
+- Live Site URL Primary: [Live Site Preview](https://drod109.github.io/profile-card-component/)
+- Live Site URL Backup: [Live Site Preview](https://codepen.io/drodrigues/full/WNmONzZ)
 
 ## My process
 
