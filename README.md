@@ -7,7 +7,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [The design](#the-design)
-  - [Screenshot](#screenshot)
+  - [The result](#the-result)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -28,7 +28,7 @@ The challenge is to build out this card component and get it looking as close to
   <img width="375" height="667" src="https://i.postimg.cc/wBPXqNFj/mobile-design.jpg">
 </p>
 
-### Screenshot
+### The result
 
 ![Project Desktop Screenshot](https://i.postimg.cc/pLmN4YnG/Screenshot-2024-01-20-053114.png)
 
